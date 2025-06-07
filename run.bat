@@ -1,5 +1,5 @@
 @echo off
-title MonadTestnet
+title MonadTestnetBot
     if exist requirements.txt (
 		echo installing wheel for faster installing
 		pip install wheel
