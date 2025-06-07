@@ -10,7 +10,7 @@ init(autoreset=True)
 
 # Constants
 RPC_URLS = [
-    "https://testnet-rpc.monorail.xyz",
+    "https://testnet-rpc.monrail.xyz",
     "https://testnet-rpc.monad.xyz",
     "https://monad-testnet.drpc.org"
 ]
